@@ -1,0 +1,32 @@
+{
+  "_comment": "Upload this file to the root of your public GitHub repo. Upload the referenced image files into a covers/ folder in the same repo. Filenames in url must match exactly (case-sensitive on GitHub raw). Add or remove entries freely — the plugin will pick up new ones on the next poll.",
+
+  "covers": [
+    { "title": "X-Men #1",            "publisher": "Marvel",     "year": 1991, "artist": "Jim Lee",         "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/xmen_1_1991.jpg" },
+    { "title": "Spider-Man #1",       "publisher": "Marvel",     "year": 1990, "artist": "Todd McFarlane",  "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/spiderman_1_1990.jpg" },
+    { "title": "Wolverine #75",       "publisher": "Marvel",     "year": 1993, "artist": "Adam Kubert",     "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/wolverine_75_1993.jpg" },
+    { "title": "Ghost Rider #15",     "publisher": "Marvel",     "year": 1991, "artist": "Mark Texeira",    "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/ghostrider_15_1991.jpg" },
+    { "title": "Punisher War Zone #1","publisher": "Marvel",     "year": 1992, "artist": "John Romita Jr.", "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/punisher_wz_1_1992.jpg" },
+    { "title": "Deadpool #1",         "publisher": "Marvel",     "year": 1997, "artist": "Ed McGuinness",   "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/deadpool_1_1997.jpg" },
+    { "title": "Silver Surfer #50",   "publisher": "Marvel",     "year": 1991, "artist": "Ron Lim",         "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/silversurfer_50_1991.jpg" },
+    { "title": "Cable #1",            "publisher": "Marvel",     "year": 1993, "artist": "Art Thibert",     "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/cable_1_1993.jpg" },
+    { "title": "Venom: Lethal Protector #1","publisher": "Marvel","year": 1993,"artist": "Mark Bagley",     "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/venom_lethal_1_1993.jpg" },
+    { "title": "Uncanny X-Men #268",  "publisher": "Marvel",     "year": 1990, "artist": "Jim Lee",         "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/uncanny_xmen_268_1990.jpg" },
+    { "title": "Amazing Spider-Man #328","publisher": "Marvel",  "year": 1990, "artist": "Todd McFarlane",  "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/asm_328_1990.jpg" },
+    { "title": "Daredevil #319",      "publisher": "Marvel",     "year": 1993, "artist": "Scott McDaniel",  "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/daredevil_319_1993.jpg" },
+
+    { "title": "Hellboy: Seed of Destruction #1","publisher": "Dark Horse","year": 1994,"artist": "Mike Mignola","url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/hellboy_seed_1_1994.jpg" },
+    { "title": "Sin City: The Hard Goodbye","publisher": "Dark Horse","year": 1992,"artist": "Frank Miller","url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/sincity_hardgoodbye_1992.jpg" },
+    { "title": "Sin City: A Dame to Kill For","publisher": "Dark Horse","year": 1993,"artist": "Frank Miller","url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/sincity_dame_1993.jpg" },
+    { "title": "The Mask #1",         "publisher": "Dark Horse", "year": 1991, "artist": "Doug Mahnke",     "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/mask_1_1991.jpg" },
+    { "title": "Concrete: Killer Smile #1","publisher": "Dark Horse","year": 1994,"artist": "Paul Chadwick","url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/concrete_killersmile_1_1994.jpg" },
+    { "title": "Aliens: Genocide #1", "publisher": "Dark Horse", "year": 1991, "artist": "John Bolton",     "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/aliens_genocide_1_1991.jpg" },
+    { "title": "Predator: Big Game #1","publisher": "Dark Horse","year": 1991, "artist": "Chris Warner",   "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/predator_biggame_1_1991.jpg" },
+    { "title": "Grendel: War Child #1","publisher": "Dark Horse","year": 1992,"artist": "Matt Wagner",     "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/grendel_warchild_1_1992.jpg" },
+    { "title": "Ghost #1",            "publisher": "Dark Horse", "year": 1995, "artist": "Adam Hughes",     "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/ghost_1_1995.jpg" },
+    { "title": "Barb Wire #1",        "publisher": "Dark Horse", "year": 1994, "artist": "Adam Hughes",     "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/barbwire_1_1994.jpg" },
+    { "title": "X #1",                "publisher": "Dark Horse", "year": 1994, "artist": "Chris Warner",   "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/x_1_1994.jpg" },
+    { "title": "Star Wars: Dark Empire #1","publisher": "Dark Horse","year": 1991,"artist": "Dave Dorman", "url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/starwars_darkempire_1_1991.jpg" },
+    { "title": "Tarzan: The Beckoning #1","publisher": "Dark Horse","year": 1992,"artist": "Thomas Yeates","url": "https://raw.githubusercontent.com/mickmeme/trmnl-covers/main/covers/tarzan_beckoning_1_1992.jpg" }
+  ]
+}
